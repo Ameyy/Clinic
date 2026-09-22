@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Ananya Sharma Clinic",
+  "description": "Modern medical practice website for Dr. Ananya Sharma, MD (AIIMS) in Bengaluru featuring an intuitive appointment booking system in INR (₹), patient testimonials, and a responsive health blog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
